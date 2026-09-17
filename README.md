@@ -17,6 +17,6 @@ cadrage.md
 requirements.txt
 ```
 
-**Lien de déploiement :
+## Lien de déploiement 
 
 https://dashboardstspotify-qrjlk7k9vchcvxhjr6xdzn.streamlit.app/
